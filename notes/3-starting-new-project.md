@@ -11,3 +11,5 @@ sui move new hello_world
 ```bash
 sui client publish --gas-budget 2000000 ./hello_world
 ```
+
+Note that container needs to have git installed `apt install git`.
